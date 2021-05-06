@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MIT Social Media Summit: Ensuring Transparency
+title: MIT Social Media Summit - Ensuring Transparency
 ---
 
 ## MIT - SMS
